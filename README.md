@@ -1,4 +1,4 @@
 # hello-world
-Just another repository
+I am a self taught and driven learner
 
-A bit about yourself
+I believe the future is tech driven and Columbus, OH will be huge
